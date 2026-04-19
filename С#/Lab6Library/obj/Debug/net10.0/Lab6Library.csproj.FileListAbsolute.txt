@@ -1,0 +1,12 @@
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/bin/Debug/net10.0/Lab6Library.deps.json
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/bin/Debug/net10.0/Lab6Library.dll
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/bin/Debug/net10.0/Lab6Library.pdb
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.AssemblyInfoInputs.cache
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.AssemblyInfo.cs
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.csproj.CoreCompileInputs.cache
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.sourcelink.json
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.dll
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/refint/Lab6Library.dll
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/Lab6Library.pdb
+/Users/elizavetarevun/Desktop/Lab6/С#/Lab6Library/obj/Debug/net10.0/ref/Lab6Library.dll
